@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-deploy-test/static/css/main.c5585d2f.css",
-    "main.js": "/react-deploy-test/static/js/main.2cec5ed4.js",
+    "main.css": "/react-deploy-test/static/css/main.d3b40211.css",
+    "main.js": "/react-deploy-test/static/js/main.f18da79d.js",
     "static/media/google.png": "/react-deploy-test/static/media/google.862abbc67ed79bdd0f76.png",
     "static/media/Thumbnail2.png": "/react-deploy-test/static/media/Thumbnail2.d11e720508740f68ff26.png",
     "static/media/Thumbnail1.png": "/react-deploy-test/static/media/Thumbnail1.960b787424cca9f4c6f8.png",
@@ -47,11 +47,11 @@
     "static/media/correct.svg": "/react-deploy-test/static/media/correct.aca39fd8b7af752127d9e1bd5c3715b4.svg",
     "static/media/check.svg": "/react-deploy-test/static/media/check.f07b2c825452716eda075862c860e6c2.svg",
     "static/media/bookmarks.svg": "/react-deploy-test/static/media/bookmarks.3ca90430def243242b8a.svg",
-    "main.c5585d2f.css.map": "/react-deploy-test/static/css/main.c5585d2f.css.map",
-    "main.2cec5ed4.js.map": "/react-deploy-test/static/js/main.2cec5ed4.js.map"
+    "main.d3b40211.css.map": "/react-deploy-test/static/css/main.d3b40211.css.map",
+    "main.f18da79d.js.map": "/react-deploy-test/static/js/main.f18da79d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5585d2f.css",
-    "static/js/main.2cec5ed4.js"
+    "static/css/main.d3b40211.css",
+    "static/js/main.f18da79d.js"
   ]
 }
