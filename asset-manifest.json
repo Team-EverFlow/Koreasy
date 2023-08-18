@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/koreasy/static/css/main.d565667b.css",
-    "main.js": "/koreasy/static/js/main.770a30c6.js",
+    "main.js": "/koreasy/static/js/main.bcb8d59d.js",
     "static/media/google.png": "/koreasy/static/media/google.862abbc67ed79bdd0f76.png",
     "static/media/Thumbnail2.png": "/koreasy/static/media/Thumbnail2.d11e720508740f68ff26.png",
     "static/media/Thumbnail1.png": "/koreasy/static/media/Thumbnail1.960b787424cca9f4c6f8.png",
@@ -48,10 +48,10 @@
     "static/media/check.svg": "/koreasy/static/media/check.f07b2c825452716eda075862c860e6c2.svg",
     "static/media/bookmarks.svg": "/koreasy/static/media/bookmarks.3ca90430def243242b8a.svg",
     "main.d565667b.css.map": "/koreasy/static/css/main.d565667b.css.map",
-    "main.770a30c6.js.map": "/koreasy/static/js/main.770a30c6.js.map"
+    "main.bcb8d59d.js.map": "/koreasy/static/js/main.bcb8d59d.js.map"
   },
   "entrypoints": [
     "static/css/main.d565667b.css",
-    "static/js/main.770a30c6.js"
+    "static/js/main.bcb8d59d.js"
   ]
 }
